@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>10 Nebel Copy</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FBEC66" offset="0%"></stop>
+            <stop stop-color="#FDF79F" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#C8C8C8" offset="0%"></stop>
+            <stop stop-color="#979797" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="10-Nebel-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke-opacity="0.395897072" stroke="#000000" fill="#FFFFFF" x="50.5" y="406.5" width="399" height="24" rx="8"></rect>
+        <rect id="Rectangle-Copy-2" stroke-opacity="0.395897072" stroke="#000000" fill="#FFFFFF" x="50.5" y="288.5" width="399" height="24" rx="8"></rect>
+        <rect id="Rectangle-Copy-4" stroke-opacity="0.395897072" stroke="#000000" fill="#FFFFFF" x="50.5" y="229.5" width="399" height="24" rx="8"></rect>
+        <rect id="Rectangle-Copy-3" stroke-opacity="0.395897072" stroke="#000000" fill="#FFFFFF" x="50.5" y="347.5" width="399" height="24" rx="8"></rect>
+        <path d="M245.964269,108.5 C259.881983,108.5 273.35841,110.333478 286.149411,113.765315 C254.932576,122.921226 227.972708,141.59106 208.849653,166.298644 C189.833652,190.867911 178.566377,221.407115 178.566377,254.5 C178.566377,287.592585 189.833448,318.131535 208.848665,342.700728 C227.972463,367.410214 254.933742,386.081164 286.145112,395.235669 C273.356666,398.66676 259.881082,400.5 245.964269,400.5 C204.412952,400.5 166.794664,384.157131 139.564619,357.732324 C112.340088,331.312869 95.5,294.815112 95.5,254.5 C95.5,214.184888 112.340088,177.687131 139.564619,151.267676 C166.794664,124.842869 204.412952,108.5 245.964269,108.5 Z M302.5,178.129776 L309.956122,193.237529 L326.628517,195.66017 L314.564259,207.419915 L317.412244,224.024943 L302.5,216.185112 L287.587756,224.024943 L290.435741,207.419915 L278.371483,195.66017 L295.043878,193.237529 L302.5,178.129776 Z M367.5,128.129776 L378.482833,150.383427 L403.041195,153.951966 L385.270598,171.274017 L389.465667,195.733147 L367.5,184.185112 L345.534333,195.733147 L349.729402,171.274017 L331.958805,153.951966 L356.517167,150.383427 L367.5,128.129776 Z" id="Combined-Shape" stroke="url(#linearGradient-2)" fill="url(#linearGradient-1)"></path>
+    </g>
+</svg>

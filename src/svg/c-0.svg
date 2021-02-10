@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>0 - wolkenlos</title>
+    <g id="0---wolkenlos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-opacity="0.501283872">
+        <g id="Group" transform="translate(60.000000, 61.000000)" fill="#FBEC66" stroke="#000000">
+            <ellipse id="Oval" cx="190.5" cy="189.5" rx="93.5" ry="94"></ellipse>
+            <rect id="Rectangle" x="181.5" y="0.5" width="16" height="77" rx="8"></rect>
+            <rect id="Rectangle-Copy" x="181.5" y="301.5" width="16" height="77" rx="8"></rect>
+            <rect id="Rectangle" transform="translate(340.500000, 189.000000) rotate(90.000000) translate(-340.500000, -189.000000) " x="332.5" y="150.5" width="16" height="77" rx="8"></rect>
+            <rect id="Rectangle-Copy" transform="translate(39.500000, 190.000000) rotate(90.000000) translate(-39.500000, -190.000000) " x="31.5" y="151.5" width="16" height="77" rx="8"></rect>
+            <rect id="Rectangle" transform="translate(297.066017, 82.726876) rotate(45.000000) translate(-297.066017, -82.726876) " x="289.066017" y="44.226876" width="16" height="77" rx="8"></rect>
+            <rect id="Rectangle-Copy" transform="translate(84.933983, 296.273124) rotate(45.000000) translate(-84.933983, -296.273124) " x="76.9339828" y="257.773124" width="16" height="77" rx="8"></rect>
+            <rect id="Rectangle" transform="translate(297.773124, 295.566017) rotate(135.000000) translate(-297.773124, -295.566017) " x="289.773124" y="257.066017" width="16" height="77" rx="8"></rect>
+            <rect id="Rectangle-Copy" transform="translate(84.226876, 83.433983) rotate(135.000000) translate(-84.226876, -83.433983) " x="76.226876" y="44.9339828" width="16" height="77" rx="8"></rect>
+        </g>
+    </g>
+</svg>

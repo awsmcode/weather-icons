@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1- heiter</title>
+    <g id="1--heiter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(60.500000, 61.000000)" stroke="#000000">
+            <ellipse id="Oval" stroke-opacity="0.502321897" fill="#FBEC66" cx="190.5" cy="189.5" rx="93.5" ry="94"></ellipse>
+            <rect id="Rectangle" stroke-opacity="0.502321897" fill="#FBEC66" x="181.5" y="0.5" width="16" height="77" rx="8"></rect>
+            <rect id="Rectangle-Copy" stroke-opacity="0.502321897" fill="#FBEC66" x="181.5" y="301.5" width="16" height="77" rx="8"></rect>
+            <rect id="Rectangle" stroke-opacity="0.502321897" fill="#FBEC66" transform="translate(340.500000, 189.000000) rotate(90.000000) translate(-340.500000, -189.000000) " x="332.5" y="150.5" width="16" height="77" rx="8"></rect>
+            <rect id="Rectangle-Copy" stroke-opacity="0.502321897" fill="#FBEC66" transform="translate(39.500000, 190.000000) rotate(90.000000) translate(-39.500000, -190.000000) " x="31.5" y="151.5" width="16" height="77" rx="8"></rect>
+            <rect id="Rectangle" stroke-opacity="0.502321897" fill="#FBEC66" transform="translate(297.066017, 82.726876) rotate(45.000000) translate(-297.066017, -82.726876) " x="289.066017" y="44.226876" width="16" height="77" rx="8"></rect>
+            <rect id="Rectangle-Copy" stroke-opacity="0.502321897" fill="#FBEC66" transform="translate(84.933983, 296.273124) rotate(45.000000) translate(-84.933983, -296.273124) " x="76.9339828" y="257.773124" width="16" height="77" rx="8"></rect>
+            <rect id="Rectangle" stroke-opacity="0.502321897" fill="#FBEC66" transform="translate(297.773124, 295.566017) rotate(135.000000) translate(-297.773124, -295.566017) " x="289.773124" y="257.066017" width="16" height="77" rx="8"></rect>
+            <rect id="Rectangle-Copy" stroke-opacity="0.502321897" fill="#FBEC66" transform="translate(84.226876, 83.433983) rotate(135.000000) translate(-84.226876, -83.433983) " x="76.226876" y="44.9339828" width="16" height="77" rx="8"></rect>
+            <path d="M285.114564,213 C295.464766,213 305.117858,216.007829 313.259768,221.203719 C321.67185,226.572023 328.471173,234.275199 332.760816,243.408949 C332.851143,243.60128 332.940272,243.794062 333.029232,243.986646 C333.240333,243.98427 333.451773,243.983334 333.663542,243.983847 C346.326423,244.014495 357.785411,249.219564 366.078313,257.6151 C374.372579,266.012015 379.5,277.600196 379.5,290.397504 C379.5,299.858409 377.321966,309.795555 372.753601,317.581652 C368.909499,324.13335 363.36479,329.160741 355.969167,331 L355.969167,331 L212.204615,331 C205.144009,329.009048 200.027096,324.311321 196.542836,318.274264 C192.341426,310.994627 190.5,301.7775 190.5,292.897798 C190.5,280.547466 195.223377,269.300913 203.051063,261.472606 C210.592419,253.930652 221.016459,249.571446 232.845486,250.470234 C233.146555,250.49311 233.446209,250.519215 233.74415,250.548186 C233.793604,250.252767 233.846663,249.957159 233.903365,249.661389 C235.981672,238.820457 242.527085,229.991782 251.264577,223.718545 C260.877096,216.817068 273.144487,213 285.114564,213 Z" id="Path-Copy" stroke-opacity="0.500163899" stroke-width="2" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
